@@ -1,0 +1,56 @@
+
+    
+   
+ 
+ 
+     
+  body{
+    background-color: rgb(116, 57, 143);
+    background: linear-gradient(0.25turn, #3f87a6, #40e217, #f69d3c);
+  }
+
+ 
+
+h1{
+   vertical-align: middle;
+   color: brown;
+   font-size: 60px;
+   background-color: rgb(31, 247, 182);
+   border-radius: 30px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   padding-bottom: 30px;
+   padding-top: 20px;
+   width: 800px;
+   height: 150px;
+   text-align: center; 
+   margin-left:  600px;
+   margin: auto;
+   margin-top: 50px;
+
+}
+
+h2{
+    font-size: 40px;
+}
+.choix{
+    text-align: center;
+}
+
+
+
+  
+   
+
+
+.image img{
+    width: 25%;
+}
+#montagne1{
+    width: 20%;
+    border-right: 150px;
+    float: right;
+}
+
+#montagne2{
+    float: right;
+}
